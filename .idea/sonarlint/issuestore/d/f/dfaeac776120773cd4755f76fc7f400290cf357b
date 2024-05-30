@@ -1,0 +1,11 @@
+
+{
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÝÁ•úÿÿÿÿ8¾±–¼ü1
+L	java:S106"+Replace this use of System.out by a logger.(Ã¸¬¤ùÿÿÿÿ8Û±–¼ü1
+L	java:S106 "+Replace this use of System.out by a logger.(ì°·Üÿÿÿÿÿ8Ü±–¼ü1
+]	java:S125"<This block of commented-out lines of code should be removed.(•Âõ“úÿÿÿÿ8Ý±–¼ü1
+L	java:S106!"+Replace this use of System.out by a logger.(¢¯Ýãøÿÿÿÿ8Þ±–¼ü1
+L	java:S106""+Replace this use of System.out by a logger.(ü¶£æûÿÿÿÿ8à±–¼ü1
+G	java:S106#"+Replace this use of System.out by a logger.(ÆþÎ¤8á±–¼ü1
+p
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¹õÌ|8ã±–¼ü1
